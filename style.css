@@ -41,3 +41,9 @@ canvas {
 #themage {
   visibility: hidden;
 }
+
+#conjunto1 {
+  display: flex;
+}
+
+
