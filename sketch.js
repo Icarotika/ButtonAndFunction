@@ -30,3 +30,9 @@ document.getElementById("image").style.visibility = "visible";
   document.getElementById("ignore").style.visibility = "visible";
   document.getElementById("theImageTwo").style.visibility = "hidden";
 }
+
+function nemteconto() {
+
+document.getElementById("puto").style.visibility = "visible";
+  document.getElementById("ignore").style.visibility = "hidden";
+}
