@@ -33,6 +33,5 @@ canvas {
 #conjunto {
   display: inline-block;
   position: relative;
-  border: 1px solid black;
   padding:0; margin:0;
 }
