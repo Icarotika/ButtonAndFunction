@@ -14,6 +14,18 @@ function apertou() {
 
 function aperto() {
 
-document.getElementById("image").style.visibility = "visible";
+document.getElementById("theImageOne").style.visibility = "visible";
   document.getElementById("theImage").style.visibility = "hidden";
+}
+
+function apertei() {
+
+document.getElementById("theImageTwo").style.visibility = "visible";
+  document.getElementById("theImageOne").style.visibility = "hidden";
+}
+
+function apertado() {
+
+document.getElementById("image").style.visibility = "visible";
+  document.getElementById("theImageTwo").style.visibility = "hidden";
 }
