@@ -27,5 +27,6 @@ document.getElementById("theImageTwo").style.visibility = "visible";
 function apertado() {
 
 document.getElementById("image").style.visibility = "visible";
+  document.getElementById("ignore").style.visibility = "visible";
   document.getElementById("theImageTwo").style.visibility = "hidden";
 }
