@@ -24,6 +24,20 @@ canvas {
   text-align: center;
 }
 
+#theImageOne {
+  visibility: hidden;
+  display: block;
+  justify-content: center;
+  text-align: center;
+}
+
+#theImageTwo {
+  visibility: hidden;
+  display: block;
+  justify-content: center;
+  text-align: center;
+}
+
 #themage {
   visibility: hidden;
 }
