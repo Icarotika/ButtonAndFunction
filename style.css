@@ -20,6 +20,8 @@ canvas {
 #theImage {
   visibility: hidden;
   display: block;
+  justify-content: center;
+  text-align: center;
 }
 
 #themage {
