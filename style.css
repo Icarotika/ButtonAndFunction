@@ -14,12 +14,27 @@ canvas {
   text-align: center;
   margin: 30;
   visibility: display;
+  display: block;
+  position: absolute;
+  top:0; left:0;
 }
 
 #theImage {
   visibility: hidden;
+  display: block;
+  position: absolute;
+  top:0; left:0;
 }
 
 #themage {
   visibility: hidden;
+}
+
+
+
+#conjunto {
+  display: inline-block;
+  position: relative;
+  border: 1px solid black;
+  padding:0; margin:0;
 }
