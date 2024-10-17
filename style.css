@@ -46,4 +46,17 @@ canvas {
   display: flex;
 }
 
+#ignore {
+  justify-content: center;
+  text-align: center;
+  margin: 30;
+  visibility: hidden;
+  display: block;
+}
 
+#puto
+  justify-content: center;
+  text-align: center;
+  visibility: hidden;
+  display: block;
+}
