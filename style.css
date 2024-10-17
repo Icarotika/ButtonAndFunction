@@ -15,27 +15,13 @@ canvas {
   margin: 30;
   visibility: display;
   display: block;
-  position: absolute;
-  top: 50%;
-  width: 100%;
 }
 
 #theImage {
   visibility: hidden;
   display: block;
-  position: absolute;
-  top: 50%;
-  width: 100%;
 }
 
 #themage {
   visibility: hidden;
-}
-
-
-
-#conjunto {
-  display: inline-block;
-  position: relative;
-  padding:0; margin:0;
 }
