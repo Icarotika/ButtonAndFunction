@@ -16,12 +16,16 @@ canvas {
   visibility: display;
   display: block;
   position: absolute;
+  top: 50%;
+  width: 100%;
 }
 
 #theImage {
   visibility: hidden;
   display: block;
   position: absolute;
+  top: 50%;
+  width: 100%;
 }
 
 #themage {
@@ -34,5 +38,4 @@ canvas {
   display: inline-block;
   position: relative;
   padding:0; margin:0;
-  top:50; left:50;
 }
