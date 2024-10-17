@@ -59,4 +59,5 @@ canvas {
   text-align: center;
   visibility: hidden;
   display: block;
+  top:500;
 }
